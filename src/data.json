@@ -1,0 +1,228 @@
+[
+    {
+      "name": "FortiFit",
+      "image": "fortifit.png",
+      "secondaryImage": "fortifit_glass.png",
+      "payment": 0.63,
+      "cost": 11,
+      "foodItems": [
+        {
+          "name": "kriške kruha",
+          "nutrient": "Kcal:",
+          "image": "kruh.png",
+          "options": [1, 2, 3],
+          "answer": 2,
+          "text": "Kcal kao u",
+          "amount": ["kriški kruha", "kriške kruha", "kriške kruha"],
+          "default": "0 kriški kruha"
+        },
+        {
+          "name": "jaja",
+          "nutrient": "Proteini:",
+          "image": "jaja.png",
+          "options": [2, 3, 4],
+          "answer": 4,
+          "text": "Proteina kao u",
+          "amount": ["jaja", "jaja", "jaja"],
+          "default": "0 jaja"
+        },
+        {
+          "name": "čaša mlijeka",
+          "nutrient": "Vitamin D:",
+          "image": "mlijeko.png",
+          "options": [10, 15, 20],
+          "answer": 10,
+          "text": "Vitamina D kao u",
+          "amount": ["čaša mlijeka", "čaša mlijeka", "čaša mlijeka"],
+          "default": "0 čaša mlijeka"
+        },
+        {
+          "name": "litra sirutke",
+          "nutrient": "Leucin:",
+          "image": "sirutka.png",
+          "options": [1, 2, 3],
+          "answer": 3,
+          "text": "Leucina kao u",
+          "amount": ["litri sirutke", "litre sirutke", "litre sirutke"],
+          "default": "0 litara sirutke"
+        }
+      ]
+    },
+    {
+      "name": "Forticare Advanced",
+      "image": "forticare_advanced.png",
+      "secondaryImage": "forticare_advanced.png",
+      "payment": 0,
+      "cost": 6.5,
+      "foodItems": [
+        {
+          "name": "kriške kruha",
+          "nutrient": "Kcal:",
+          "image": "kruh.png",
+          "options": [3, 4, 5],
+          "answer": 4,
+          "text": "Kcal kao u",
+          "amount": ["kriške kruha", "kriške kruha", "kriške kruha"],
+          "default": "0 kriški kruha"
+        },
+        {
+          "name": "jaja",
+          "nutrient": "Proteini:",
+          "image": "jaja.png",
+          "options": [2, 3, 4],
+          "answer": 3,
+          "text": "Proteina kao u",
+          "amount": ["jaja", "jaja", "jaja"],
+          "default": "0 jaja"
+        },
+        {
+          "name": "čaša mlijeka",
+          "nutrient": "Vitamin D:",
+          "image": "mlijeko.png",
+          "options": [5, 10, 15],
+          "answer": 5,
+          "text": "Vitamina D kao u",
+          "amount": ["čaša mlijeka", "čaša mlijeka", "čaša mlijeka"],
+          "default": "0 čaša mlijeka"
+        },
+        {
+          "name": "srdela",
+          "nutrient": "Omega 3 masne kiseline:",
+          "image": "srdela.png",
+          "options": [2, 4, 6],
+          "answer": 4,
+          "text": "Omega 3 masnih kiselina kao u",
+          "amount": ["srdele", "srdele", "srdela"],
+          "default": "0 srdela"
+        }
+      ]
+    },
+    {
+      "name": "Nutridrink Compact Protein",
+      "image": "nutridrink.png",
+      "secondaryImage": "nutridrink.png",
+      "payment": 0.52,
+      "cost": 17.5,
+      "foodItems": [
+        {
+          "name": "kriške kruha",
+          "nutrient": "Kcal:",
+          "image": "kruh.png",
+          "options": [3, 4, 5],
+          "answer": 4,
+          "text": "Kcal kao u",
+          "amount": ["kriške kruha", "kriške kruha", "kriške kruha"],
+          "default": "0 kriški kruha"
+        },
+        {
+          "name": "jaja",
+          "nutrient": "Proteini:",
+          "image": "jaja.png",
+          "options": [1, 2, 3],
+          "answer": 3,
+          "text": "Proteina kao u",
+          "amount": ["jaju", "jaja", "jaja"],
+          "default": "0 jaja"
+        },
+        {
+          "name": "čaša mlijeka",
+          "nutrient": "Kalcij:",
+          "image": "mlijeko.png",
+          "options": [1, 2, 3],
+          "answer": 2,
+          "text": "Kalcija kao u",
+          "amount": ["čaši mlijeka", "čaše mlijeka", "čaše mlijeka"],
+          "default": "0 čaša mlijeka"
+        },
+        {
+          "name": "odrezak mesa",
+          "nutrient": "Željezo:",
+          "image": "odrezak.png",
+          "options": [1, 2, 3],
+          "answer": 1,
+          "text": "Željeza kao u",
+          "amount": ["odresku mesa", "odreska mesa", "odreska mesa"],
+          "default": "0 odrezaka mesa"
+        },
+        {
+          "name": "cherry rajčice",
+          "nutrient": "Vitamin C:",
+          "image": "rajcice.png",
+          "options": [2, 4, 6],
+          "answer": 6,
+          "text": "Vitamina C kao u",
+          "amount": ["cherry rajčice", "cherry rajčice", "cherry rajčica"],
+          "default": "0 cherry rajčica"
+        }
+      ]
+    },
+    {
+      "name": "Cubitan",
+      "image": "cubitan.png",
+      "secondaryImage": "cubitan.png",
+      "payment": 0.495,
+      "cost": 8.5,
+      "foodItems": [
+        {
+          "name": "krumpir",
+          "nutrient": "Kcal:",
+          "image": "krumpir.png",
+          "options": [1, 2, 3],
+          "answer": 3,
+          "text": "Kcal kao u",
+          "amount": ["krumpiru", "krumpira", "krumpira"],
+          "default": "0 krumpira"
+        },
+        {
+          "name": "jaja",
+          "nutrient": "Proteini:",
+          "image": "jaja.png",
+          "options": [1, 2, 3],
+          "answer": 3,
+          "text": "Proteina kao u",
+          "amount": ["jaju", "jaja", "jaja"],
+          "default": "0 jaja"
+        },
+        {
+          "name": "kikiriki",
+          "nutrient": "Arganin:",
+          "image": "kikiriki.png",
+          "options": ["100g", "200g", "300g"],
+          "answer": "100g",
+          "text": "Arganina kao u",
+          "amount": ["kikirikija", "kikirikija", "kikirikija"],
+          "default": "0g kikirikija"
+        },
+        {
+          "name": "bučine sjemenke",
+          "nutrient": "Cink",
+          "image": "sjemenke.png",
+          "options": ["100g", "200g", "300g"],
+          "answer": "100g",
+          "text": "Cinka kao u",
+          "amount": ["bučinih sjemenki", "bučinih sjemenki", "bučinim sjemenki"],
+          "default": "0g bučinih sjemenki"
+        },
+        {
+          "name": "naranče",
+          "nutrient": "Vitamin C:",
+          "image": "narance.png",
+          "options": [2, 4, 6],
+          "answer": 6,
+          "text": "Vitamina C kao u",
+          "amount": ["naranče", "naranče", "naranči"],
+          "default": "0 naranči"
+        },
+        {
+          "name": "bademi",
+          "nutrient": "Vitamin E:",
+          "image": "bajame.png",
+          "options": ["100g", "150g", "200g"],
+          "answer": "150g",
+          "text": "Vitamina E kao u",
+          "amount": ["badema", "badema", "badema"],
+          "default": "0g badema"
+        }
+      ]
+    }
+]
